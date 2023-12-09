@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Gokulavasan Srinivasan, Passionate individual with intuitive problem-solving skills who loves implementing and launching new
+ideas is looking to start the career as an entry-level developer with a reputed firm driven by technology.
 
 <!--
 **Gokulavasan1012/Gokulavasan1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
